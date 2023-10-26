@@ -1,0 +1,4 @@
+2. 
+a. Mostrar los pasos del ordenamiento de la lista `[6,0,4,2,5,7,4,1]` con mergesort.
+b. Responder en no más de 5 renglones: ¿ En qué situaciones tiene ventaja inserción 
+   frente a otros de similares características como selección?
